@@ -1,0 +1,28 @@
+{
+  "name": "sync-item",
+  "version": "1.0.0",
+  "description": "Sync ERPNext Items to IndexedDB",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbauskar/sync_items.git"
+  },
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/mbauskar/sync_items/issues"
+  },
+  "homepage": "https://github.com/mbauskar/sync_items#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.36.0"
+  }
+}
